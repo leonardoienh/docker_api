@@ -3,12 +3,16 @@
 https://www.docker.com/products/docker-desktop
 
 1.Como executar
--Clonar o repositório do GitHub, use o comando anexado no seu terminal;
-git clone https://github.com/seu-usuario/nome-do-repositorio.git
+<br>
+-Clonar o repositório do GitHub, use o comando anexado no seu terminal:
+  git clone https://github.com/leonardoienh/docker_api.git
 
 -Entrar na pasta do repositório
+<br>
 -Entrar na pasta 'meu-projeto'
+<br>
 -Acessar o cmd via pasta: Digitando 'cmd' na barra de diretório da pasta
+<br>
 -Digitar esse comando: docker-compose up --build
 
 
