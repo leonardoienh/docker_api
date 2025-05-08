@@ -1,3 +1,7 @@
+-Instalação necessária: Docker, pode instalar por esse link:
+<br>
+https://www.docker.com/products/docker-desktop
+
 1.Como executar
 -Clonar o repositório do GitHub, use o comando anexado no seu terminal;
 git clone https://github.com/seu-usuario/nome-do-repositorio.git
