@@ -37,7 +37,7 @@ bash curl http://localhost:5000/limpar
 Método 3: Cadastrar dados na tabela
 Rota: POST /formulario
 Objetivo: Cadastrar registro na tabela produtos.
-Como usar: Acesse a URL no navegador ou utilize curl:
+Como usar: Acesse a URL no navegador 
 http://localhost:5000/formulario
 
 Método 4: Listar todos os produtos
