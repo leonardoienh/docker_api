@@ -1,4 +1,5 @@
 1.Como executar
+<br>
 -Clonar o repositório do GitHub, use o comando anexado no seu terminal:
   git clone https://github.com/leonardoienh/docker_api.git
 
