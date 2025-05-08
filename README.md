@@ -1,6 +1,6 @@
 1.Como executar
 -Clonar o repositório do GitHub, use o comando anexado no seu terminal;
-git clone https://github.com/seu-usuario/nome-do-repositorio.git
+git clone https://github.com/leonardoienh/docker_api.git
 
 -Entrar na pasta do repositório
 -Entrar na pasta 'meu-projeto'
